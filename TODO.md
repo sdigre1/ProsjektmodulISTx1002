@@ -5,6 +5,8 @@
 
 ### Oppgaver
 
+#### Del 1
+
 2a)
 
 1.  Implimenter modellen  
@@ -33,3 +35,11 @@
 4. Oppgave 2c)
 
     []
+
+
+#### Del 2
+
+a) 
+
+b) 
+
